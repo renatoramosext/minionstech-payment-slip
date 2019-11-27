@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Pagamento",
+    "owner": "Andre Picoli",
+    "description": "Pagamento de contas, Recebe o as informações para o pagamento, verifica o saldo e envia para o banco liquidante"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Pagamento de contas",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Willian Marcelinho"
+  }
+}
