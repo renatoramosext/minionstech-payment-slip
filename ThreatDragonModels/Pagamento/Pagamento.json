@@ -26,16 +26,26 @@
               "angle": 0,
               "id": "a9bbd955-acc3-4e09-b6a7-89fb7e1cb98e",
               "z": 1,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Autenticacao nao autorizada",
+                  "type": "Information disclosure",
+                  "description": "Acessar a conta a partir de outro device após vazamento de informacao",
+                  "mitigation": "Usar o device para autenticar o login e MFA"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "MOBILE"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
