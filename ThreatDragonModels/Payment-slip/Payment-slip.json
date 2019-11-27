@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Payment-slip",
+    "owner": "Andre Picoli",
+    "description": "Pagamento de contas, Recebe o as informações para o pagamento, verifica o saldo e envia para o banco liquidante"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Willian Marcelinho"
+  }
+}
