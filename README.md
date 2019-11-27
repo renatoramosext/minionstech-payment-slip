@@ -1,0 +1,1 @@
+# minionstech-payment-slip
